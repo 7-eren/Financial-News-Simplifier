@@ -1,0 +1,56 @@
+<svg viewBox="0 0 960 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Concept preview of the Financial News Simplifier layout">
+  <rect width="960" height="560" fill="#F1F3F4"/>
+
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="240" height="560" fill="#F1F3F4" stroke="#E1E4E6" stroke-width="1"/>
+  <text x="28" y="52" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1B2027">Financial News</text>
+  <text x="28" y="76" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#1B2027">Simplifier</text>
+  <text x="28" y="98" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Business headlines, read in plain language.</text>
+
+  <g font-family="Arial, sans-serif" font-size="12" fill="#5B6470">
+    <rect x="28" y="136" width="2" height="16" fill="#2C5F7C"/>
+    <text x="42" y="148" fill="#1B2027" font-weight="600">All stories</text>
+    <text x="42" y="176">Markets</text>
+    <text x="42" y="204">Banking</text>
+    <text x="42" y="232">Economy</text>
+    <text x="42" y="260">Corporate</text>
+    <text x="42" y="288">Personal finance</text>
+  </g>
+
+  <text x="28" y="340" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#5B6470">TERMS EXPLAINED</text>
+  <rect x="28" y="352" width="184" height="1" fill="#E1E4E6"/>
+  <text x="28" y="374" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#1B2027">Repo rate</text>
+  <text x="28" y="390" font-family="Arial, sans-serif" font-size="10.5" fill="#5B6470">The rate the RBI lends to banks at.</text>
+  <rect x="28" y="404" width="184" height="1" fill="#E1E4E6"/>
+  <text x="28" y="422" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#1B2027">Nifty</text>
+  <text x="28" y="438" font-family="Arial, sans-serif" font-size="10.5" fill="#5B6470">NSE's 50-company benchmark index.</text>
+
+  <!-- Main content -->
+  <rect x="272" y="40" width="300" height="30" rx="6" fill="#FFFFFF" stroke="#E1E4E6"/>
+  <text x="286" y="59" font-family="Arial, sans-serif" font-size="12" fill="#5B6470">Search headlines</text>
+  <text x="860" y="59" font-family="Arial, sans-serif" font-size="11" fill="#5B6470" text-anchor="end">Updated 12m ago</text>
+
+  <!-- Story 1 -->
+  <line x1="272" y1="96" x2="912" y2="96" stroke="#E1E4E6"/>
+  <text x="272" y="122" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Reuters  ·  2h ago  ·  <tspan fill="#2C5F7C">Banking</tspan></text>
+  <text x="272" y="150" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1B2027">RBI holds repo rate steady for third straight review</text>
+  <text x="272" y="176" font-family="Arial, sans-serif" font-size="13" fill="#1B2027">The central bank kept its <tspan fill="#8A5A18" text-decoration="underline">repo rate</tspan> unchanged, citing steady growth.</text>
+  <text x="272" y="198" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Quick read</text>
+  <text x="860" y="198" font-family="Arial, sans-serif" font-size="11" fill="#2C5F7C" text-anchor="end">Show original</text>
+
+  <!-- Story 2 -->
+  <line x1="272" y1="222" x2="912" y2="222" stroke="#E1E4E6"/>
+  <text x="272" y="248" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Mint  ·  4h ago  ·  <tspan fill="#2C5F7C">Markets</tspan></text>
+  <text x="272" y="276" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1B2027">Sensex slips as IT stocks weigh on benchmark index</text>
+  <text x="272" y="302" font-family="Arial, sans-serif" font-size="13" fill="#1B2027">The <tspan fill="#8A5A18" text-decoration="underline">Sensex</tspan> fell after weaker quarterly earnings from major IT firms.</text>
+  <text x="272" y="324" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Moderate</text>
+  <text x="860" y="324" font-family="Arial, sans-serif" font-size="11" fill="#2C5F7C" text-anchor="end">Show original</text>
+
+  <!-- Story 3 -->
+  <line x1="272" y1="348" x2="912" y2="348" stroke="#E1E4E6"/>
+  <text x="272" y="374" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Business Standard  ·  6h ago  ·  <tspan fill="#2C5F7C">Personal finance</tspan></text>
+  <text x="272" y="402" font-family="Georgia, serif" font-size="18" font-weight="600" fill="#1B2027">SIP inflows touch a fresh high for the quarter</text>
+  <text x="272" y="428" font-family="Arial, sans-serif" font-size="13" fill="#1B2027">Monthly <tspan fill="#8A5A18" text-decoration="underline">SIP</tspan> contributions rose as more first-time investors joined.</text>
+  <text x="272" y="450" font-family="Arial, sans-serif" font-size="11" fill="#5B6470">Quick read</text>
+  <text x="860" y="450" font-family="Arial, sans-serif" font-size="11" fill="#2C5F7C" text-anchor="end">Show original</text>
+</svg>
