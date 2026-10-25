@@ -6,8 +6,6 @@ inline instead of assumed.
 
 live Demo - https://finnewsimplifier.netlify.app/
 
-*(The image above is a concept preview of the layout, not a live screenshot.)*
-
 ## Why this exists
 
 Financial reporting is written for people who already speak the vocabulary.
