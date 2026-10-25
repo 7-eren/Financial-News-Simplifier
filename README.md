@@ -4,7 +4,7 @@ Business headlines from India's markets, banking and economy, rewritten to a
 short, plain-language read — with jargon like *repo rate* or *SIP* explained
 inline instead of assumed.
 
-![Concept preview of the app layout](docs/preview.svg)
+live Demo - https://finnewsimplifier.netlify.app/
 
 *(The image above is a concept preview of the layout, not a live screenshot.)*
 
