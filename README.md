@@ -5,6 +5,7 @@ short, plain-language read — with jargon like *repo rate* or *SIP* explained
 inline instead of assumed.
 
 live Demo - https://finnewsimplifier.netlify.app/
+Demo Explaination - https://drive.google.com/drive/folders/1SCngYO2STRY_d7J7B_rtw8b2CrkOcHee
 
 ## Why this exists
 
